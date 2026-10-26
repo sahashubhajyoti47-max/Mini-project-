@@ -1,0 +1,12 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "name": "yt",
+            "amount": 399.0,
+            "category": "Entertainment",
+            "date": "2026-10-26"
+        }
+    ],
+    "budget": 3000.0
+}
